@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:buildrobotsbetter/libgpio.git
+	branch = main
+	commit = 08cfee9909a15f6edc314d45a0d64451b839e974
+	parent = 7fb10b6c4a44bab1005db6c54383cf487b422a60
+	method = rebase
+	cmdver = 0.4.9
